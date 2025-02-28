@@ -1,0 +1,108 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #333;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 10px 20px; /* 减少左右留白 */
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
+    background-color: #ffffff;
+    border-bottom: 1px solid #dddddd;
+}
+
+.profile-img {
+    width: 180px; /* 设定固定宽度 */
+    height: 240px; /* 设定固定高度，保持长方形 */
+    margin-right: 20px;
+    object-fit: cover; /* 保持图片比例并填充框架 */
+}
+
+.header-text {
+    flex-grow: 1;
+}
+
+.header-text h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #333;
+}
+
+.header-text p {
+    margin: 5px 0;
+    font-size: 1.2em;
+    color: #666;
+}
+
+nav {
+    background-color: #333;
+}
+
+nav ul {
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff9800;
+}
+
+main {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.section {
+    margin-bottom: 40px;
+}
+
+.section h2 {
+    font-size: 2em;
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.section p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 0.9em;
+    color: #333;
+}
+
+footer hr {
+    margin-bottom: 20px;
+    border: none;
+    border-top: 1px solid #dddddd;
+}
