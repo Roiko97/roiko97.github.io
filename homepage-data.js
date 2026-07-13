@@ -47,7 +47,7 @@
             type: "Journal",
             title: "Attributed network anomaly detection via feature masking and anomaly enhancement",
             authors: "Wenkai Zhang, Chaobo He, Junwei Cheng, Peng Mei, Feiyu Peng, Youda Mo",
-            venue: "IEEE Transactions on Computational Social Systems",
+            venue: "IEEE Transactions on Computational Social Systems, 2026.X",
             badges: ["CCF-C"],
             links: [],
             selected: true
@@ -57,7 +57,7 @@
             type: "Journal",
             title: "Multi-Scale Signal Modulation for Variational Graph Autoencoders",
             authors: "Junwei Cheng, Ke Liang, Weixiong Liu, Pengxing Feng, Chaobo He",
-            venue: "Artificial Intelligence, 2026.",
+            venue: "Artificial Intelligence, 2026.3",
             badges: ["CCF-A"],
             links: [],
             selected: true
@@ -77,7 +77,7 @@
             type: "Journal",
             title: "Clustering Diffusion Model with Frequency-Signal Modulation for Variational Graph Autoencoders",
             authors: "Junwei Cheng, Ke Liang, Pengxing Feng, Weixiong Liu, Yong Tang, Chaobo He",
-            venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence.",
+            venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026. 2",
             badges: ["CCF-A"],
             links: [
                 { label: "Code", href: "https://github.com/Roiko97/FVD" }
@@ -85,11 +85,11 @@
             selected: true
         },
         {
-            year: "2025",
+            year: "2026",
             type: "Journal",
             title: "Variational Graph Filter Autoencoder for Uncovering Community Structure in Multiplex Networks",
             authors: "Junwei Cheng, Chaobo He, Xiang Fei, Weixiong Liu, Tianyong Hao, Hui Ma, Yong Tang",
-            venue: "Pattern Recognition, 2025.",
+            venue: "Pattern Recognition, 2026.4.",
             badges: ["CCF-B"],
             links: [],
             selected: false
