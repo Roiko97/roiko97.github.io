@@ -72,6 +72,18 @@
             links: [],
             selected: true
         },
+		{
+            year: "2026",
+            type: "Journal",
+            title: "Clustering Diffusion Model with Frequency-Signal Modulation for Variational Graph Autoencoders",
+            authors: "Junwei Cheng, Ke Liang, Pengxing Feng, Weixiong Liu, Yong Tang, Chaobo He",
+            venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence.",
+            badges: ["CCF-A"],
+            links: [
+                { label: "Code", href: "https://github.com/Roiko97/FVD" }
+            ],
+            selected: true
+        },
         {
             year: "2025",
             type: "Journal",
@@ -81,18 +93,6 @@
             badges: ["CCF-B"],
             links: [],
             selected: false
-        },
-        {
-            year: "2025",
-            type: "Journal",
-            title: "Clustering Diffusion Model with Frequency-Signal Modulation for Variational Graph Autoencoders",
-            authors: "Junwei Cheng, Ke Liang, Pengxing Feng, Weixiong Liu, Yong Tang, Chaobo He",
-            venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.",
-            badges: ["CCF-A"],
-            links: [
-                { label: "Code", href: "https://github.com/Roiko97/FVD" }
-            ],
-            selected: true
         },
         {
             year: "2025",
