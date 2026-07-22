@@ -45,6 +45,16 @@
 		{
             year: "2026",
             type: "Journal",
+            title: "Central events in self-generated thoughts: Inferring short-term mental health status through narrative networks",
+            authors: "Yujie Yao, Wenzhe Hu, Junwei Cheng, Yanchi Liu, Ce Mo, Muxian Zhang, Jun Peng, Chaobo He, Lei Mo",
+            venue: "Applied Psychology: Health and Well-Being",
+            badges: ["心理学中科院2区"],
+            links: [],
+            selected: true
+        },
+		{
+            year: "2026",
+            type: "Journal",
             title: "Attributed network anomaly detection via feature masking and anomaly enhancement",
             authors: "Wenkai Zhang, Chaobo He, Junwei Cheng, Peng Mei, Feiyu Peng, Youda Mo",
             venue: "IEEE Transactions on Computational Social Systems, 2026.X",
