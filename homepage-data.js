@@ -3,7 +3,7 @@
     profile: {
         name: "Junwei Cheng",
         title: "Postdoctoral Researcher",
-        affiliation: "China Electronic Product Reliability and Environmental Testing Research Institute / South China Normal University",
+        affiliation: "China Electronic Product Reliability and Environmental Testing Research Institute / South China University of Technology",
         photo: "images/banner.jpg",
         meta: [
             { label: "Email", value: "jung@m.scnu.edu.cn" },
@@ -17,7 +17,7 @@
     },
     mapleQuote: "Keep exploring, keep growing.",
     about: [
-        "Junwei Cheng received his Ph.D. from South China Normal University. He is currently a postdoctoral researcher at China Electronic Product Reliability and Environmental Testing Research Institute and South China Normal University.",
+        "Junwei Cheng received his Ph.D. from South China Normal University. He is currently a postdoctoral researcher at China Electronic Product Reliability and Environmental Testing Research Institute and South China University of Technology.",
         "His research interests include community detection, graph data mining, and AI for software reliability.",
         "He has published papers as first author or corresponding author in TPAMI, AIJ, TKDE, AAAI, SIGIR, CIKM, ESWA, and 电子学报."
     ],
